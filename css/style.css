@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
+
+.btn-rectangulo{
+	background-color:#25349b;
+	border:1px solid #fff;
+	color: #ff9400;
+	border-radius: 0;
+	padding: 10px 30px;
+	font-weight: 600;
+}
+header{
+font-family:'Lato', sans-serif;
+margin-left: 100px;	
+} 
+
+#navbar{
+	margin-left: 600px;
+}
+
+#sec-slides{
+	text-align: left;
+}
+#hero{
+	background-image: url(../img/slide-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0;
+	text-align: left;
+}
+#hero h1{
+	color: #F79600;
+	font-size: 80px;
+	font-weight: 700;
+	
+	
+}
+#hero p{
+	font-size: 20px;
+}
+
+.btn-rectangulo1{
+	background-color: transparent;
+	border:1px solid #F79600;
+	color: #F79600;
+	border-radius: 0;
+	padding: 10px 30px;
+	font-weight: 600;
+}
+#ourservices{
+	padding: 150px;
+	font-family:'Lato', sans-serif;
+	color: #2D2B2B;
+	text-align: center;
+	
+}
+
+#os{
+	text-decoration:underline;
+	color: #25349b;
+}
+
+#carros{
+	font-size: 40px;
+}
+
+#chequeo{
+	font-size: 40px;
+}
+
+#servicio{
+	font-size: 40px;
+}
+
+#gallery{
+	text-decoration: underline;	
+	text-decoration-color: #2C0990;
+color: #ff9400;
+}
+
+#sec-gallery{
+	background-color: #25349b;
+	color: #FFFFFF;
+	padding: 50px;
+}
+footer{
+	background-color: #25349b;
+	color: #FFFFFF;
+}
+#sec-welcome{
+	text-align: center;
+	padding: 30px;
+	background-color: #fff;
+	color: #000;
+	
+}
+
+#sec-welcome h2{
+	color:#25349B;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+#sec-welcome p{
+	
+	text-align: center;
+	margin-bottom: 50px;
+	color: #000;
+	
+
+	
+}
+#texto{
+	text-align: center;
+	
+}
+
+#sec-testimonials {
+	padding: 100px;
+	background-color: #FFF;
+	COLOR: #000;
+	text-align: center;
+}
+#sec-testimonials h2{
+	color:#25349B;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 30px
+}
+#sec-testimonials p{
+	margin-bottom: 40px;
+}
+
+#sec-clients h2{
+	color: #25349B;
+}
+
+#sec-clients{
+	padding:50px;
+}
+
+footer{
+	padding:30px;
+}
+
